@@ -6,6 +6,8 @@
 
 #### User Story :
 
+![Trips] (https://d13yacurqjgara.cloudfront.net/users/68746/screenshots/1443029/travel_v5.gif)
+
 As a user, I want to have a large choice of magnificent pictures of awesome destinations.
 
 As a user, I need to get the destination informations by clicking on the picture.
