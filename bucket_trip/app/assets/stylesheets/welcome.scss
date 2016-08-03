@@ -1,0 +1,36 @@
+// Place all the styles related to the welcome controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+body {
+  margin: 10px;
+}
+
+header {
+  margin: 0 auto;
+}
+
+img {
+  width: 800px;
+  margin: 10 10px;
+}
+
+section {
+  width: 800px;
+  height: 500px;
+  margin: 0 auto;
+  overflow-y: scroll;
+  padding-bottom: 10px;
+  margin-bottom: 10px;
+}
+
+div {
+  margin: 10px;
+}
+
+.info {
+  float: left;
+}
+
+.bucket {
+  float: right;
+}
